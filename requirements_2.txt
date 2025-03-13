@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain-groq
+streamlit
+faiss-cpu
+langchain_cohere
+bs4
+google.generativeai
